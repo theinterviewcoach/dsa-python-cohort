@@ -44,5 +44,3 @@ if __name__ == '__main__':
     nums = [5, 2, 7, 9, 10, 12, 25, 11, 19]
     target = 10
     print(solution.findIfTripletExists(nums, target))
-
-
